@@ -4,7 +4,7 @@ def main():
     # make your code below
     # print('Hello World')
     ##############################
-    print('hello world')
+    print('Hello World')
     print('CS7: Python Programming')
 
 
