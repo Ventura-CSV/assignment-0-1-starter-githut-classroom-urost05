@@ -33,4 +33,3 @@ def test_main_1():
     res = re.search(regex_string, result)
     assert res != None
     print(res.group())
-print ("hello world")
